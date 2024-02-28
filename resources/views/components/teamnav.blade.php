@@ -1,4 +1,4 @@
-<nav  class="navbar navbar-expand-lg fixed-top  transition" data-bs-theme="dark">
+<nav  class="navbar navbar-expand-lg fixed-top  transition" data-bs-theme="light">
   <div class="container-fluid">
     <a class="navbar-brand ms-2 " href="{{route('welcome')}}"><img class="imgnav" src="{{ asset('storage/img/imgnav.png') }}" alt="Logo"></a>
     <a class="navbar-brand ms-2 font-title nav-link" href="{{route('welcome')}}">Presto.it</a>

@@ -13,10 +13,9 @@
     <title>Presto.it</title>
 </head>
 <body>
-    <x-navbar></x-navbar>
+    <x-teamnav></x-teamnav>
    
-    <x-header></x-header>
-    
+       
         {{$slot}}
     
     <x-footer></x-footer>

@@ -17,3 +17,6 @@ yarn-error.log
 /.idea
 /.vscode
 /storage/*.index
+google_credential.json
+/storage/*.index-shm
+/storage/*.index-wal
